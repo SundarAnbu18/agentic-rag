@@ -1,0 +1,11 @@
+Project Documentation
+
+This project is an agentic RAG demo built with LangChain.
+
+Files:
+- main.py — agent with RAG tools for sundaranbu and hasan profiles
+- file_management.py — agent with a terminal_command tool
+- rag/sundaranbu.md — knowledge file for sundar
+- rag/hasan.md — knowledge file for Hasan
+
+The sundar profile is used as a local knowledge source for the agent.
